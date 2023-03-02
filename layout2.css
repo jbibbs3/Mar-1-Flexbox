@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.column1 {
+    background-color: blue;
+    height: 1000px;
+    width: 300px;
+}
+
+.column2 {
+   background-color: crimson;
+   height:1000px;
+   width:1300px;
+}
+

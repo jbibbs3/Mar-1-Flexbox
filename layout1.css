@@ -7,13 +7,13 @@
 
 .column1 {
     background-color: blue;
-    height: 15%;
-    width: 5%;
+    height: 1000px;
+    width: 300px;
 }
 
 .column2 {
    background-color: crimson;
-   width:20%;
-   height:8%;
+   height:800px;
+   width:1300px;
 }
 
